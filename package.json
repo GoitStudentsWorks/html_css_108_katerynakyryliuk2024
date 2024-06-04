@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/LogicLions/",
+    "build": "vite build --base=/html_css_108_katerynakyryliuk2024/",
     "preview": "vite preview",
     "start": "serve"
   },
